@@ -13,7 +13,7 @@ This is a description of a teaching experience. You can use markdown like any ot
 Heading 1
 ======
 ---
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
+hw: 'https://academicpages.github.io/files/slides3.pdf'
 ---
 Heading 2
 ======
